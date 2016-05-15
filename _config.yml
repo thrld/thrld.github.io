@@ -1,3 +1,5 @@
 name: Thomas A. Herold
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: pretty
+#instead of:
+#permalink: /blog/:year/:month/:day/:title
