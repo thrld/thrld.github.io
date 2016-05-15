@@ -1,32 +1,16 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Thomas A. Herold</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="../css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li>Thomas A. Herold</li>
-				<li><a href="/">Home</a></li>
-        		<!--<li><a href="/cv">CV</a></li>-->
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-			<p>This website is still under construction.</p>
-			<p>Blog will go here.</p>
+---
+layout: default
+title: Blog
+---
+	<h1>{{ page.title }}</h1>
+	
 
-			<p style="font-style: italic; padding-top: 5em; padding-bottom: 5em">But since you're the only one who will see this for now: <b>Hey, A.</b></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:tah385@nyu.edu">email</a></li>
-        		<li><a href="https://github.com/ThomasHe89">github.com/ThomasHe89</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+	<a href="atom.xml" target="_blank"><img src="https://www.mozilla.org/media/img/trademarks/feed-icon-14x14.2168a573d0d4.png"></a> Click icon for RSS feed (will not work in Chrome, because <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=434" target="_blank">Chrome doesn't know how to display XML</a>).
+
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+
