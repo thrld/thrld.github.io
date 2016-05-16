@@ -27,3 +27,5 @@ I realize that the way this is written up at the moment is not particularly help
 3. Another [tutorial](https://24ways.org/2013/get-started-with-github-pages/) by Anna Debenham. She goes a little more into detail about styling stuff, which I found helpful. 
 
 4. Here is a [short article](http://alistapart.com/article/responsive-web-design) about how to make your webpage *responsive* to the user's device.  
+
+5. Here is a [post from perfectly random](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/) that explains how to get the commenting system to work.
