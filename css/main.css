@@ -87,12 +87,12 @@ ul.posts li {
     position: relative;
     width: 500px;
     height: auto;
-    margin: 25px;
+    margin: 35px;
 }
 
 .blognav {
     color: gray;
-    font-size: .8em;
+    font-size: 1em;
     font-style: italic;
     text-align: center;
     padding: 4px;
