@@ -7,18 +7,19 @@
 			<link rel="stylesheet" type="text/css"
   			media="screen and (max-device-width: 480px)"
   			href="/css/small.css" />
-
+  		 
 		</head>
-		<body>
+	
+		<body class = "{{ page.section }}">
 			<nav>
 	    		<ul>
 	    			<li>Thomas A. Herold</li>
-	        		<li><a href="/">Home</a></li>
+	        		<li><a href="/" class="home">Home</a></li>
 		        	<!--
 		        	<li><a href="/about">About</a></li>
 		        	-->
 	        		<li><a href="/pdf/cv_herold.pdf">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
+	        		<li><a href="/blog" class="blog">Blog</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
@@ -27,11 +28,20 @@
 			
 			</div><!-- /.container -->
 			<footer>
-	    		<ul>
-	        		<li>Contact in NYC: <a href="mailto:tah385@nyu.edu">tah385 (at) nyu.edu</a></li><br>
-	        		<li>Contact in Berlin: <a href="mailto:tah385@nyu.edu">heroldtx (at) sowi.hu-berlin.de</a></li><br>
-	        		<li>Github: <a href="https://github.com/ThomasHe89">github.com/ThomasHe89</a></li>
-				</ul>
+				<table>
+				  <tr>
+				    <td><b>Contact in NYC:</b></th>
+				    <td><a href="mailto:tah385@nyu.edu">tah385@nyu.edu</a></th>
+				  </tr>
+				  <tr>
+				    <td><b>Contact in Berlin:</b></td>
+				    <td><a href="mailto:tah385@nyu.edu">heroldtx@sowi.hu-berlin.de</a></td>
+				  </tr>
+				  <tr>
+				    <td><b>GitHub:</b></td>
+				    <td><a href="https://github.com/ThomasHe89">github.com/ThomasHe89</a></td>
+				  </tr>
+				</table>
 			</footer>
 
 			<script>

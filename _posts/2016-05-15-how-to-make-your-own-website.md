@@ -2,6 +2,7 @@
 layout: post
 title: "How to make your own website"
 date: 2016-05-15
+section: blog
 ---
 
 Okay, imagine you have *zero* web development skills but still think it would be cool to have your own website. I get that, I feel the same. Let me be the 902845459th person to tell you how to do it. For now, this will just be a basic rundown of the different steps you need to take, but I intend to expand on this in the future.
