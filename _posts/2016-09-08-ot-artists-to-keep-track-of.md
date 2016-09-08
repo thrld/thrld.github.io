@@ -15,7 +15,7 @@ Please, let me know about your own finds, too. Comments, emails, everything's ap
 
 ### The List
 
-- [Emma Ruth Rundle - Protection](http://www.stereogum.com/1896176/emma-ruth-rundle-protection/franchises/premiere/) -- Currently on tour. Playing @ Heimathafen on 09/23!
+- [Emma Ruth Rundle - Protection](http://www.stereogum.com/1896176/emma-ruth-rundle-protection/franchises/premiere/) -- Currently on tour. Playing @ Heimathafen on 09/23! 
 - [Bradon Can't Dance - *LXVE EP*](https://luckynumber.bandcamp.com/album/lxve-ep) -- Nice when the sun's out and you don't have anything to do.
 - [Porridge Radio - Rice, Pasta and Other Fillers](https://porridgeradio.bandcamp.com/album/rice-pasta-and-other-fillers) -- Band from Brighton, UK =) This is their first full-length album after a lot of solo home recordings from their singer Dana.
 - [Margaret Glaspy - *Emotions and Math*](http://www.newyorker.com/culture/culture-desk/listen-to-margaret-glaspys-emotions-math) -- Beautiful debut (!) album, used to be available for streaming in its entirety in the link provided. Unfortunately, now you only get 30-second snippets. I hear she's on Spotify, though.
