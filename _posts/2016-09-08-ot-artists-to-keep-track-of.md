@@ -15,6 +15,10 @@ Please, let me know about your own finds, too. Comments, emails, everything's ap
 
 ### The List
 
+- [Pictochat - Leaving (ft. Miel Bredouw)](https://soundcloud.com/donovan-kouanchao/pictochat-leaving-ft-miel-bredouw) -- Thanks to J.F., good times. (If you're into this kind of music, you should also check out [stevo](https://soundcloud.com/stevo/02-afternoon), [altitude.](https://soundcloud.com/altitvde/c-h-e-r-r-y), and [a.bee](https://soundcloud.com/mdnghtcltr/abee-shades)!)
+- [Public Transport - Morgenrot](https://soundcloud.com/public-transport/morgenrot) -- Gaze, gaze! 
+- [Weval - Out of the Game](https://soundcloud.com/atomnation/weval-01-out-of-the-game) -- Beautiful layers, played at Fusion last year. 
+- [Little Barrie - Why Don't You Do It](https://www.youtube.com/watch?v=yLAWTIKcV4s) -- Found this on an old sampler from Munich. What a guitar sound.
 - [Emma Ruth Rundle - Protection](http://www.stereogum.com/1896176/emma-ruth-rundle-protection/franchises/premiere/) -- Currently on tour. Playing @ Heimathafen on 09/23!
 - [Bradon Can't Dance - *LXVE EP*](https://luckynumber.bandcamp.com/album/lxve-ep) -- Nice when the sun's out and you don't have anything to do.
 - [Porridge Radio - Rice, Pasta and Other Fillers](https://porridgeradio.bandcamp.com/album/rice-pasta-and-other-fillers) -- Band from Brighton, UK =) This is their first full-length album after a lot of solo home recordings from their singer Dana.
