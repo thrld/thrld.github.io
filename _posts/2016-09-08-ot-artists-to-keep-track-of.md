@@ -15,6 +15,7 @@ Please, let me know about your own finds, too. Comments, emails, everything's ap
 
 ### The List
 
+- [37500 Yens - *Astero*](https://www.youtube.com/playlist?list=PLqecCMJ_KokEOwIVDMurWi6580qE8rgfN) -- Wow, this was just posted to a math rock board. If you're short on time, check out the [title track](https://www.youtube.com/watch?v=Ul1o5MFxqBk).  
 - [Pictochat - Leaving (ft. Miel Bredouw)](https://soundcloud.com/donovan-kouanchao/pictochat-leaving-ft-miel-bredouw) -- Thanks to J.F., good times. (If you're into this kind of music, you should also check out [stevo](https://soundcloud.com/stevo/02-afternoon), [altitude.](https://soundcloud.com/altitvde/c-h-e-r-r-y), and [a.bee](https://soundcloud.com/mdnghtcltr/abee-shades)!)
 - [Public Transport - Morgenrot](https://soundcloud.com/public-transport/morgenrot) -- Gaze, gaze! 
 - [Weval - Out of the Game](https://soundcloud.com/atomnation/weval-01-out-of-the-game) -- Beautiful layers, played at Fusion last year. 
