@@ -10,12 +10,13 @@ section: blog
 
 This is a list for myself that contains music that I've stumbled upon recently and that I don't want to forget again straight away. I will keep adding to this as new stuff trickles in. Song names are in normal font, *album names* are italicized. 
 
-Please, let me know about your own finds, too. Comments, emails, everything's appreciated!
+Please feel free to let me know about your own finds, too! 
 
 
 ### The List
 
-- [37500 Yens - *Astero*](https://37500yens.bandcamp.com/) -- Wow, this was posted to a math rock board a couple of hours ago and is on repeat since then.  
+- [Justin Townes Earle - Halfway to Jackson](https://www.youtube.com/watch?v=8sgCwMoN580) -- "JTE belts one out in California", as the uploader says. So true, what an amazing guitarist and singer! (This is a rediscovery. I first saw a [video of his](https://www.youtube.com/watch?v=Y9W511HVxuY) on Grooveshark in late 2011 when there was still competition in the world of music streaming platforms, but then somehow forget about him again. Just like people forgot about Grooveshark.)   
+- [37500 Yens - *Astero*](https://37500yens.bandcamp.com/) -- Wow, this was posted to a math rock board a couple of hours ago and has been on repeat since then.  
 - [Pictochat - Leaving (ft. Miel Bredouw)](https://soundcloud.com/donovan-kouanchao/pictochat-leaving-ft-miel-bredouw) -- Thanks to J.F., good times. (If you're into this kind of music, you should also check out [stevo](https://soundcloud.com/stevo/02-afternoon), [altitude.](https://soundcloud.com/altitvde/c-h-e-r-r-y), and [a.bee](https://soundcloud.com/mdnghtcltr/abee-shades)!)
 - [Public Transport - Morgenrot](https://soundcloud.com/public-transport/morgenrot) -- Gaze, gaze! 
 - [Weval - Out of the Game](https://soundcloud.com/atomnation/weval-01-out-of-the-game) -- Beautiful layers, played at Fusion last year. 
@@ -29,4 +30,4 @@ Please, let me know about your own finds, too. Comments, emails, everything's ap
 - [Oxbow - *The Narcotic Story*](https://oxbow.bandcamp.com/album/the-narcotic-story) -- Incredibly well-arranged album, co-produced by Joe Chiccarelli (Frank Zappa!), singer reminds me a lot of the early [Enik](http://enik.net/). 
 - [Molly Drake - I Remember](https://www.youtube.com/watch?v=52eMBSRNYxA) -- Nick Drake's mother, an amazing singer and lyricist. I really wonder why I've only just found her.
 - [Mr. Bungle - *California*](https://www.youtube.com/watch?v=ITEDFYdLHFA) -- A recent rediscovery. Surely takes some time to get used to, but Mike Patton might very well be one of the most interesting artists around. In this album, he shows off an overwhelming amount of his skills.
-- [Horace Bray - *Dream State*](https://horacebray.bandcamp.com/album/dreamstate) -- Great modern jazz guitarist from Texas, if I'm not mistaken. 
+- [Horace Bray - *Dream State*](https://horacebray.bandcamp.com/album/dreamstate) -- Great modern jazz guitarist from Texas, if I'm not mistaken. Start with '3 4 5' for some great polyrhythms (3 over 4 over 5, as the name suggests).
