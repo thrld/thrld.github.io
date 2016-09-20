@@ -31,3 +31,5 @@ Please feel free to let me know about your own finds, too!
 - [Molly Drake - I Remember](https://www.youtube.com/watch?v=52eMBSRNYxA) -- Nick Drake's mother, an amazing singer and lyricist. I really wonder why I've only just found her.
 - [Mr. Bungle - *California*](https://www.youtube.com/watch?v=ITEDFYdLHFA) -- A recent rediscovery. Surely takes some time to get used to, but Mike Patton might very well be one of the most interesting artists around. In this album, he shows off an overwhelming amount of his skills.
 - [Horace Bray - *Dream State*](https://horacebray.bandcamp.com/album/dreamstate) -- Great modern jazz guitarist from Texas, if I'm not mistaken. Start with '3 4 5' for some great polyrhythms (3 over 4 over 5, as the name suggests).
+
+※
