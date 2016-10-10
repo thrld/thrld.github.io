@@ -15,6 +15,7 @@ Please feel free to let me know about your own finds, too!
 
 ### The List
 
+- [Elliott Smith - *Live at The Jon Brion Show*](https://www.youtube.com/watch?v=PK4okHerWeI) -- Elliott Smith at his best, supported by Jon Brion and Brad Mehldau, two great musicians. The setlist includes beautiful renditions of 'Son of Sam' and 'Happiness' plus a great John Lennon cover and a performance of Brion's song 'Trouble' with Smith on second guitar.
 - [Justin Townes Earle - Halfway to Jackson](https://www.youtube.com/watch?v=8sgCwMoN580) -- "JTE belts one out in California", as the uploader says. So true, what an amazing guitarist and singer! (This is a rediscovery. I first saw a [video of his](https://www.youtube.com/watch?v=Y9W511HVxuY) on Grooveshark in late 2011 when there was still competition in the world of music streaming platforms, but then somehow forget about him again. Just like people forgot about Grooveshark.)   
 - [37500 Yens - *Astero*](https://37500yens.bandcamp.com/) -- Wow, this was posted to a math rock board a couple of hours ago and has been on repeat since then.  
 - [Pictochat - Leaving (ft. Miel Bredouw)](https://soundcloud.com/donovan-kouanchao/pictochat-leaving-ft-miel-bredouw) -- Thanks to J.F., good times. (If you're into this kind of music, you should also check out [stevo](https://soundcloud.com/stevo/02-afternoon), [altitude.](https://soundcloud.com/altitvde/c-h-e-r-r-y), and [a.bee](https://soundcloud.com/mdnghtcltr/abee-shades)!)
