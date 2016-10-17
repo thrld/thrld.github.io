@@ -6,13 +6,13 @@ output: html_document
 layout: post
 ---
 
-I stumbled across some blog posts that dealt with syntax highlighting on Github Pages last week. A number of posts favoured **Pygments**. However, when I had everything up and running and pushed the changes up to Github, I got an email from them with an error message saying that ''the pygments highlighter [...] is currently unsupported on Github Pages'' and that I should use **Rouge** instead (also see [this blog post from Github](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0). 
+I stumbled across some blog posts that dealt with syntax highlighting on Github Pages last week. A number of posts favoured **Pygments**. However, when I had everything up and running and pushed the changes up to Github, I got an email from them with an error message saying that ''the pygments highlighter [...] is currently unsupported on Github Pages'' and that I should use **Rouge** instead (also see [this blog post from Github](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)). 
 
 I did a little bit of research and it turns out that Rouge themes are 100% Pygments compatible. That is a great plus since I had already used Pygments to create a css file for syntax highlighting. 
 
 **Here is a short rundown of what I did.**
 
-While Rouge is written in Ruby, Pygments is written Python. This means that once you have installed the **pygmentize** script, you can use Pygments from the shell in a number of ways ([this article](http://pygments.org/docs/cmdline/) gives more details. I generated a basic css file by typing the following into my cmd: 
+While Rouge is written in Ruby, Pygments is written Python. This means that once you have installed the **pygmentize** script, you can use Pygments from the shell in a number of ways ([this article](http://pygments.org/docs/cmdline/) gives more details). I generated a basic css file by typing the following into my cmd: 
 
 {% highlight text %}
 pygmentize -f html -S default > path/to/css/highlight.css
@@ -24,7 +24,7 @@ This will create a css file and save it at the specified location. Then simply i
 @import url("highlights.css");
 {% endhighlight %}
 
-Note that this assumes that you saved the generated highlights.css to the location where your main file lives. I previewed the results and might some minor changes to the css file (see make sure to have a look at [this blog post](https://monicagranbois.com/blog/webdev/formatting-code-with-pygments-and-jekyll/) for some more advice on editing the file).
+Note that this assumes that you saved the generated highlights.css to the location where your main file lives. I previewed the results and made some minor changes to the css file (make sure to have a look at [this blog post](https://monicagranbois.com/blog/webdev/formatting-code-with-pygments-and-jekyll/) for  more advice on editing the file).
 
 **Two more things.** 
 
@@ -36,7 +36,7 @@ yourCodeHere
 {% raw %}{% endhighlight %}{% endraw %}
 {% endhighlight %}
 
-Of course, `python' is not the only choice you have here -- support is (almost) endless, but of varying quality depending on which language you are looking for.
+Of course, ```python``` is not the only choice you have here -- support is (almost) endless, but of varying quality, depending on which language you are looking for.
 
 Here is a simple example in Python:
 
