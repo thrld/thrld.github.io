@@ -6,7 +6,7 @@ output: html_document
 layout: post
 ---
 
-A short post in case some of you are experiencing similar problems with **Ruby** on Windows. When installing a gem (e.g. 'jekyll') over cmd via ```gem install jekyll```, I got an error message saying that ''certificate verify failed''. This is annoying, especially since it was hard to find a solution. After some research, I found a working solution by combining suggestions from two different blog posts ([#1](https://gist.github.com/luislavena/f064211759ee0f806c88), [#2](https://superdevresources.com/ssl-error-ruby-gems-windows/)).
+A short post in case some of you are experiencing similar problems with **Ruby** on Windows. When installing a gem (e.g. jekyll) over cmd via ```gem install jekyll```, I got an error message saying that ''certificate verify failed''. This is annoying, especially since it was hard to find a solution. After some research, I found a working solution by combining suggestions from two different blog posts ([#1](https://gist.github.com/luislavena/f064211759ee0f806c88), [#2](https://superdevresources.com/ssl-error-ruby-gems-windows/)).
 
 **4 simple steps:**
 

@@ -47,7 +47,7 @@ res = []
 url_root = 'http://pitchfork.com/features/lists-and-guides/9932-the-50-best-indie-rock-albums-of-the-pacific-northwest/?page='
 url_list = []
 for i in range(1,6):
-        url_list.append(url_root + str(i))
+    url_list.append(url_root + str(i))
 {% endhighlight %}
 
 What follows is the actual scraper:
@@ -107,4 +107,4 @@ with open("pitchfork_results.csv", "w", newline='') as f:
     writer.writerows(res)
 {% endhighlight %}
 
-The [second part]() of this tutorial shows you how to read the data into R.
+The second part of this tutorial shows you how to read the data into R.
