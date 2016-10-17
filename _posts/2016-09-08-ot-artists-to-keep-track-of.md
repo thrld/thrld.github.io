@@ -15,6 +15,8 @@ Please feel free to let me know about your own finds, too!
 
 ### The List
 
+- [The Breeders - Head to Toe](https://www.youtube.com/watch?v=1Huozu5FZH4) - Gotta love the Breeders, and I need to remind myself of this. I will never grow tired of this bored voice. Two more examples: ['Hag'](https://www.youtube.com/watch?v=uCvQULLydwc) and ['No Aloha'], both from their 1993 album *Last Splash*. 
+- [Elliott Smith - *Lucky Three*](https://www.youtube.com/watch?v=aQf9zbbkdgk) - Another one.
 - [Elliott Smith - *Live at The Jon Brion Show*](https://www.youtube.com/watch?v=PK4okHerWeI) -- Elliott Smith at his best, supported by Jon Brion and Brad Mehldau, two great musicians. The setlist includes beautiful renditions of 'Son of Sam' and 'Happiness' plus a great John Lennon cover and a performance of Brion's song 'Trouble' with Smith on second guitar.
 - [Justin Townes Earle - Halfway to Jackson](https://www.youtube.com/watch?v=8sgCwMoN580) -- "JTE belts one out in California", as the uploader says. So true, what an amazing guitarist and singer! (This is a rediscovery. I first saw a [video of his](https://www.youtube.com/watch?v=Y9W511HVxuY) on Grooveshark in late 2011 when there was still competition in the world of music streaming platforms, but then somehow forget about him again. Just like people forgot about Grooveshark.)   
 - [37500 Yens - *Astero*](https://37500yens.bandcamp.com/) -- Wow, this was posted to a math rock board a couple of hours ago and has been on repeat since then.  

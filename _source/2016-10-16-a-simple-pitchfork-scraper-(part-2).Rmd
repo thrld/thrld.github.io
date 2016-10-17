@@ -1,0 +1,38 @@
+---
+layout: post
+title: "A Simple Pitchfork Scraper (Part 2)"
+date: 2016-10-16
+section: blog
+output: html_document
+---
+
+
+```{r setup, warning = FALSE, message = FALSE}
+# load packages
+require(xlsx)
+require(knitr)
+```
+
+```{r load_blind, echo = FALSE, eval = TRUE}
+setwd("C:/Users/johndoe/OneDrive/2_Master/3. Semester/Python Programming/iPython Notebooks")
+res <- read.csv(file = "pitchfork_results.csv", header = FALSE)
+```
+
+```{r load, echo = TRUE, eval= FALSE}
+# load excel document created in Python
+setwd("path/to/excel/file")
+res <- read.csv(file = "pitchfork_results.csv", header = FALSE)
+```
+
+```{r}
+# set column names and take a look
+colnames(res) <- c("Rank", "Artist", "Album", "Label", "Track", "Link")
+head(res, n = 5L)
+```
+
+Last but not least, let's create a markdown list that will look nice on a webpage. (I am only including the top 5 because I don't want to reprint all of Pitchfork's work on my own site.)
+
+```{r}
+# produce a beatiful markdown list
+kable(tail(res[,-4], n = 5L), row.names = FALSE, format = "markdown", longtable = TRUE)
+```
