@@ -50,7 +50,7 @@ for i in range(1,6):
     url_list.append(url_root + str(i))
 {% endhighlight %}
 
-What follows is the actual scraper:
+What follows is the actual scraper (check out [this link](http://www.w3schools.com/xml/xpath_syntax.asp) in case you're not familiar with XPath syntax):
 {% highlight python linenos %}
 # get content from all 5 url's:
 for url in url_list:        
