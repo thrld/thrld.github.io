@@ -1,4 +1,4 @@
 name: Thomas A. Herold
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
