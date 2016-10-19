@@ -9,7 +9,7 @@ The winter semester starts tomorrow, so I thought before I have to do actual wor
 
 Have a look at [this webpage](http://pitchfork.com/features/lists-and-guides/9932-the-50-best-indie-rock-albums-of-the-pacific-northwest/?page=1), or actually, collection of webpages that contain a ranking of *The 50 Best Indie Rock Albums of the Pacific Northwest*. As usual, there is a lot of unnecessary information and clicking involved. I wrote a [wrapper](https://en.wikipedia.org/wiki/Wrapper_(data_mining)) that extracts the information we're actually interested in for each entry: rank, artist name, album name, label name, name of the song that Pitchfork suggests we should check out, and a youtube link to this song. 
 
-Here is a simple Python script that takes care of the web scraping task using selenium.  
+Here is a simple Python script that takes care of the web scraping task using the extension *selenium*. Let's call it *pitchf_scraper.py* -- or *pitchf_scraper.ipynb*, if you decide to work in IPython Notebook (now called [Jupyter Notebook](http://jupyter.org/)).  
 
 First, we define a helper function that will be used below.
 {% highlight python linenos %}
@@ -50,7 +50,7 @@ for i in range(1,6):
     url_list.append(url_root + str(i))
 {% endhighlight %}
 
-What follows is the actual scraper (check out [this link](http://www.w3schools.com/xml/xpath_syntax.asp) in case you're not familiar with XPath syntax):
+What follows is the actual scraper (check out [this link](http://www.w3schools.com/xml/xpath_syntax.asp) in case you're not familiar with the XPath syntax):
 {% highlight python linenos %}
 # get content from all 5 url's:
 for url in url_list:        
@@ -107,4 +107,16 @@ with open("pitchfork_results.csv", "w", newline='') as f:
     writer.writerows(res)
 {% endhighlight %}
 
-The second part of this tutorial shows you how to read the data into R.
+The following will be important for the third part of the tutorial. Let's save a subset of the results using *pickle* to be able to re-import them later:
+
+{% highlight python linenos %}
+# save links only as pickle object
+links = list()
+for entry in res:
+    links.append(entry[5][32:43])
+pickle.dump(links, open("pitchfork_video_ids.p", "wb"))
+{% endhighlight %}
+
+The [second part](../../../../../2016/10/16/a-simple-pitchfork-scraper-(part-2)) of this tutorial demonstrates how to read the data into R and create beautiful markdown tables within seconds. 
+
+In [part 3](../../../../../2016/10/19/a-simple-pitchfork-scraper-(part-3)) I show you how to automatically make a Youtube playlist out of these 50 videos using the [Youtube Data API](https://developers.google.com/youtube/v3/) and the [Google API Client Library for Python](https://developers.google.com/api-client-library/python/). 

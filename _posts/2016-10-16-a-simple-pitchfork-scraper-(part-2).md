@@ -6,15 +6,17 @@ section: blog
 output: html_document
 ---
 
+In the first part of the tutorial, I showed how to retrieve content from a [Pitchfork article](http://pitchfork.com/features/lists-and-guides/9932-the-50-best-indie-rock-albums-of-the-pacific-northwest/?page=1). The content I was interested in was hidden in large amounts of text but we can regain control and structure it using some web scraping tricks in Python. I saved the resulting data set as an Excel file.
 
+This is a fairly short post, nothing fancy. All I want to do is load the data into R and show you a powerful package to create tables in markdown from within an .Rmd file. This blog post is written in R. If you're interested in doing something similar yourself, check out my post on **Blogging with knitr and Jekyll**.
+
+Let's get started:
 
 {% highlight r %}
 # load packages
 require(xlsx)
 require(knitr)
 {% endhighlight %}
-
-
 
 
 {% highlight r %}
