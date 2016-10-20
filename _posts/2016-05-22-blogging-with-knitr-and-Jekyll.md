@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blogging with knitr and jekyll"
+title: "Blogging with knitr and Jekyll"
 date: 2016-05-22
 section: blog
 output: html_document
@@ -44,6 +44,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<img src="/figure/source/2016-05-22-blogging-with-knitr-and-Jekyll/pressure-1.png" title="plot of chunk pressure" alt="plot of chunk pressure" style="display: block; margin: auto;" />
+<img src="/figure/source/2016-05-22-blogging-with-knitr-and-jekyll/pressure-1.png" title="plot of chunk pressure" alt="plot of chunk pressure" style="display: block; margin: auto;" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
