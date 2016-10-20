@@ -6,7 +6,7 @@ output: html_document
 layout: post
 ---
 
-R is making progress when it comes to improving the interoperability between Python and R. Note that what you are looking at here is a .Rmd file. Using ``` ```{python}``` instead of ``` ```{R}``` activates the Python engine. This means that R evaluates Pythong commands now.
+R is making progress when it comes to improving the interoperability between Python and R. Note that what you are looking at here is a .Rmd file. Using ```` ```{python} ```` instead of ```` ```{R} ```` activates the Python engine. This means that R evaluates Pythong commands now.
 
 
 ```{r setup, include=FALSE}
