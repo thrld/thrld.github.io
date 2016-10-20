@@ -38,7 +38,7 @@ from bs4 import BeautifulSoup as BS # for get_text()
 Now let's set up everything we need for the web scraping task:
 {% highlight python linenos %}
 # set up the browser -- executable_path points to the location where phantomjs is stored
-browser = webdriver.PhantomJS(executable_path=r'C:/Users/johndoe/Documents/automateWork/phantomjs-2.1.1-windows/bin/phantomjs.exe')
+browser = webdriver.PhantomJS(executable_path=r'C:/path/to/the/file/phantomjs.exe')
 
 # define result list
 res = []
@@ -50,7 +50,7 @@ for i in range(1,6):
     url_list.append(url_root + str(i))
 {% endhighlight %}
 
-What follows is the actual scraper (check out [this link](http://www.w3schools.com/xml/xpath_syntax.asp) in case you're not familiar with the XPath syntax):
+What follows is the actual scraper:<sup><a href='#fn1' id='ref1'>1</a></sup>
 {% highlight python linenos %}
 # get content from all 5 url's:
 for url in url_list:        
@@ -107,7 +107,7 @@ with open("pitchfork_results.csv", "w", newline='') as f:
     writer.writerows(res)
 {% endhighlight %}
 
-The following will be important for the third part of the tutorial. Let's save a subset of the results using *pickle* to be able to re-import them later:
+The following will be important for the third part of the tutorial. Let's save a subset of the results using *pickle* to be able to re-import them later. To be precise, I extract the *videoID* from the youtube link to each video. Note that the links are always at the fifth<sup><a href='#fn2' id='ref2'>2</a></sup> position (the data are structured now, like a data.frame in R) and youtube links are standardized (the videoID can always be found at the same position within the link). Here is one example how one could do it:
 
 {% highlight python linenos %}
 # save links only as pickle object
@@ -120,3 +120,10 @@ pickle.dump(links, open("pitchfork_video_ids.p", "wb"))
 The [second part](../../../../../2016/10/16/a-simple-pitchfork-scraper-(part-2)) of this tutorial demonstrates how to read the data into R and create beautiful markdown tables within seconds. 
 
 In [part 3](../../../../../2016/10/19/a-simple-pitchfork-scraper-(part-3)) I show you how to automatically make a Youtube playlist out of these 50 videos using the [Youtube Data API](https://developers.google.com/youtube/v3/) and the [Google API Client Library for Python](https://developers.google.com/api-client-library/python/). 
+
+<hr>
+*Footnotes:*
+
+<a name="fn1">1</a>: Note that Pitchfork didn't manage their tags in a very concise way, this is why I had to play around a little with XPath in the code -- not very nice, I know.. Check out [this link](http://www.w3schools.com/xml/xpath_syntax.asp) in case you're not familiar with the XPath syntax. <sup><a href='#ref1' title='Jump back to footnote 1 in the text.'>↩</a></sup>
+
+<a name="fn2">2</a>: Be careful -- unlike R, Python is zero-indexed. This means that you select the first element of the vector *v* using the syntax `v[0]`. <sup><a href='#ref2' title='Jump back to footnote 2 in the text.'>↩</a></sup>
