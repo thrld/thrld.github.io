@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blogging with knitr and Jekyll"
+title: "Blogging with knitr and jekyll"
 date: 2016-05-22
 section: blog
 output: html_document
