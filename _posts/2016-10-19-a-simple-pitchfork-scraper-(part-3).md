@@ -232,7 +232,7 @@ pickle_ids_file = "pitchfork_video_ids.p"
 add_videos_to_playlist(pickle_ids_file, playlistID)
 {% endhighlight %}
 
-I should say that there are some things I'm not happy with yet. I might improve the code a little at a later point. However, the function as presented above works and can easily be adapted to different scenarios. 
+I should say that there are some things I'm not happy with yet. I might improve the code a little at a later point. However, the function as presented above works and can easily be adapted to different scenarios. Here is a [link to the resulting playlist](https://www.youtube.com/watch?v=KkUD6UftGRM&list=PLS3zmQh40iicB1CYdhP6r7hQEDIVzUe_i).
 
 **Good luck, let me know if you run into any issues or would like anything to be explained in more detail.** 
 
