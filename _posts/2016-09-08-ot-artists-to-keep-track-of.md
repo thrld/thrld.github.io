@@ -38,4 +38,4 @@ Please feel free to let me know about your own finds, too!
 
 ※
 
-[last update: 2016/10/31] 
+<sup>[last update: 2016/10/31]</sup> 
