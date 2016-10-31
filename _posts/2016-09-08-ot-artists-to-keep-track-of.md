@@ -8,7 +8,7 @@ section: blog
 
 ### Purpose
 
-This is a list for myself that contains music that I've stumbled upon recently and that I don't want to forget again straight away. I will keep adding to this as new stuff trickles in. Song names are in normal font, *album names* are italicized. 
+This is a list for myself that contains music that I've stumbled upon recently and that I don't want to forget again straight away. I will keep adding to this as new stuff trickles in. Song names are in normal font, album names/collections of songs are *italicized*. 
 
 Please feel free to let me know about your own finds, too! 
 
@@ -37,3 +37,5 @@ Please feel free to let me know about your own finds, too!
 - [Horace Bray - *Dream State*](https://horacebray.bandcamp.com/album/dreamstate) -- Great modern jazz guitarist from Texas, if I'm not mistaken. Start with '3 4 5' for some great polyrhythms (3 over 4 over 5, as the name suggests).
 
 ※
+
+[last update: 2016/10/31] 
