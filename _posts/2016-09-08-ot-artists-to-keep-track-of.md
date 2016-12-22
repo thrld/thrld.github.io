@@ -15,7 +15,7 @@ Please feel free to let me know about your own finds, too!
 
 ### The List
 
-- [Cyrille Aimée - Make You Dance](https://www.youtube.com/watch?v=Qqw-f74eXk8) -- It is amazing what some people do with loop pedals!
+- [Cyrille Aimée - Make You Dance](https://www.youtube.com/watch?v=Qqw-f74eXk8) -- Thanks to M. It is amazing what some people do with loop pedals!
 - [The Breeders - Head to Toe](https://www.youtube.com/watch?v=1Huozu5FZH4) -- I will never grow tired of this bored voice. Two more examples: ['Hag'](https://www.youtube.com/watch?v=uCvQULLydwc) and ['No Aloha'](https://www.youtube.com/watch?v=o9hAS2uHG_I), both from their 1993 album *Last Splash*. 
 - [Elliott Smith - *Lucky Three*](https://www.youtube.com/watch?v=aQf9zbbkdgk) -- Another one.
 - [Elliott Smith - *Live at The Jon Brion Show*](https://www.youtube.com/watch?v=PK4okHerWeI) -- Elliott Smith at his best, supported by Jon Brion and Brad Mehldau, two great musicians. The setlist includes beautiful renditions of 'Son of Sam' and 'Happiness' plus a great John Lennon cover and a performance of Brion's song 'Trouble' with Smith on second guitar.
@@ -38,4 +38,4 @@ Please feel free to let me know about your own finds, too!
 
 ※
 
-<sup>[last update: 2016/10/31]</sup> 
+<sup>[last update: 2016/12/12]</sup> 
