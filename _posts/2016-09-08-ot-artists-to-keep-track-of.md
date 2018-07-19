@@ -15,6 +15,7 @@ Please feel free to let me know about your own finds, too!
 
 ### The List
 
+- [Scotty Anderson - Are You From Dixie](https://www.youtube.com/watch?v=ANV09GR2c1w) -- A guitarist using thumb position? For a different style and the same technique, check out [Marcus Tardelli](https://www.youtube.com/watch?v=4qt8fvwI2x8&t=0s). 
 - [Cyrille Aimée - Make You Dance](https://www.youtube.com/watch?v=Qqw-f74eXk8) -- Thanks to M. It is amazing what some people do with loop pedals!
 - [The Breeders - Head to Toe](https://www.youtube.com/watch?v=1Huozu5FZH4) -- I will never grow tired of this bored voice. Two more examples: ['Hag'](https://www.youtube.com/watch?v=uCvQULLydwc) and ['No Aloha'](https://www.youtube.com/watch?v=o9hAS2uHG_I), both from their 1993 album *Last Splash*. 
 - [Elliott Smith - *Lucky Three*](https://www.youtube.com/watch?v=aQf9zbbkdgk) -- Another one.
