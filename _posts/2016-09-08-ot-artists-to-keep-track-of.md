@@ -15,6 +15,7 @@ Please feel free to let me know about your own finds, too!
 
 ### The List
 
+- Note to self after a lazy Saturday: Revisit Black Cobra's ST release. Scout Niblett, Hole (*Pretty on the Inside*), Sleaford Mods (Tarantula Deadly Cargo), and *Oxygen 7-13* by Jean-Michael Jarre. 
 - [Scotty Anderson - Are You From Dixie](https://www.youtube.com/watch?v=ANV09GR2c1w) -- A guitarist using thumb position? For a different style and the same technique, check out [Marcus Tardelli](https://www.youtube.com/watch?v=4qt8fvwI2x8&t=0s). 
 - [Cyrille Aimée - Make You Dance](https://www.youtube.com/watch?v=Qqw-f74eXk8) -- Thanks to M. It is amazing what some people do with loop pedals!
 - [The Breeders - Head to Toe](https://www.youtube.com/watch?v=1Huozu5FZH4) -- I will never grow tired of this bored voice. Two more examples: ['Hag'](https://www.youtube.com/watch?v=uCvQULLydwc) and ['No Aloha'](https://www.youtube.com/watch?v=o9hAS2uHG_I), both from their 1993 album *Last Splash*. 
@@ -28,7 +29,7 @@ Please feel free to let me know about your own finds, too!
 - [Little Barrie - Why Don't You Do It](https://www.youtube.com/watch?v=yLAWTIKcV4s) -- Found this on an old sampler from Munich. What a guitar sound.
 - [Emma Ruth Rundle - Protection](http://www.stereogum.com/1896176/emma-ruth-rundle-protection/franchises/premiere/) -- Currently on tour. Playing @ Heimathafen on 09/23!
 - [Bradon Can't Dance - *LXVE EP*](https://luckynumber.bandcamp.com/album/lxve-ep) -- Nice when the sun's out and you don't have anything to do.
-- [Porridge Radio - Rice, Pasta and Other Fillers](https://porridgeradio.bandcamp.com/album/rice-pasta-and-other-fillers) -- Band from Brighton, UK :) This is their first full-length album after a lot of solo home recordings from their singer Dana.
+- [Porridge Radio - *Rice, Pasta and Other Fillers*](https://porridgeradio.bandcamp.com/album/rice-pasta-and-other-fillers) -- Band from Brighton, UK :) This is their first full-length album after a lot of solo home recordings from their singer Dana.
 - [Margaret Glaspy - *Emotions and Math*](http://www.newyorker.com/culture/culture-desk/listen-to-margaret-glaspys-emotions-math) -- Beautiful debut (!) album, used to be available for streaming in its entirety in the link provided. Unfortunately, now you only get 30-second snippets. I hear she's on Spotify, though.
 - [FFX - Catch Up](https://ffxdtf.bandcamp.com/) -- Duo, originally from Ljubljana, Slovenia. Now working from Berlin.
 - [Goblin \*\*\*\* - World is Moving](http://www.metalinjection.net/av/heres-an-album-stream-from-a-band-called-goblin-cock) -- Came across them because Nick Reinhard (from the great [Tera Melos](https://teramelos.bandcamp.com/)) is helping out on guitar for their upcoming US tour.
@@ -39,4 +40,4 @@ Please feel free to let me know about your own finds, too!
 
 ※
 
-<sup>[last update: 2016/12/12]</sup> 
+<sup>[last update: 2018/09/01]</sup> 
