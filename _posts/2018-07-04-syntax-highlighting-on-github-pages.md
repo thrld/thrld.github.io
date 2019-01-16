@@ -1,6 +1,6 @@
 ---
 title: "Syntax Highlighting on Github Pages"
-date: 2016-07-04
+date: 2018-07-04
 section: blog
 output: html_document
 layout: post

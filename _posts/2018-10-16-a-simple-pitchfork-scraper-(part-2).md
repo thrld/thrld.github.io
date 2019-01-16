@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Simple Pitchfork Scraper (Part 2)"
-date: 2016-10-16
+date: 2018-10-16
 section: blog
 output: html_document
 ---

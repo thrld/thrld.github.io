@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OT: Artists to keep track of"
-date: 2016-09-08
+date: 2018-09-08
 section: blog
 ---
 

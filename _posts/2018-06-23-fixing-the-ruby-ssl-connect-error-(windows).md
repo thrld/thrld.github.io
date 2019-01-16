@@ -1,6 +1,6 @@
 ---
 title: "Fixing the Ruby SSL connect error (Windows)"
-date: 2016-06-23
+date: 2018-06-23
 section: blog
 output: html_document
 layout: post
