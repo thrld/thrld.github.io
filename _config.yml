@@ -2,3 +2,5 @@ name: Thomas A. Herold
 markdown: kramdown
 permalink: pretty
 highlighter: rouge
+#gems:
+#  - jekyll-feed
