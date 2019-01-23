@@ -5,11 +5,19 @@ set width (<p>) to 100%.
 */
 
 body {
+    display: flex;
+    flex-direction: column;
     font-family: Georgia, serif;
-    margin: 20px auto;
-    width: 70%;
+    margin: auto;
+    width: 90%;
+    /*background: yellow; */
 }
 
-p {
-    width: 100%;
+.blurb {
+    justify-content: center;
+    width: 85%;
+    margin: auto;
+    /*padding-left: 2em;*/
+    padding-top: .5em;
+    /*background: grey;*/
 }
