@@ -13,6 +13,26 @@ body {
     /*background: yellow; */
 }
 
+#header1_name {
+  display: block;
+  width: 30%;
+  padding-right: .2em;
+  /*align-content: center;*/
+  /*font-family: Merriweather;*/ 
+  font-size: 1.2em;
+  /*font-weight: bold;*/
+  /*background: green;*/
+}
+
+nav ul li {
+    display: inline;
+    /*margin-right: 20px;*/
+    font-family: Georgia, serif; 
+    font-size: 1.05em;
+    font-weight: 100;
+}
+
+
 .blurb {
     justify-content: center;
     width: 85%;
@@ -34,3 +54,4 @@ body {
 body.blog ol {
   padding: 1em 0em;
 }
+
