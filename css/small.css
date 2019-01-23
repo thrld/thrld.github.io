@@ -3,6 +3,13 @@ don't waste any space on mobile devices:
 if screen width smaller than 480px, 
 set width (<p>) to 100%. 
 */
+
+body {
+    font-family: Georgia, serif;
+    margin: 20px auto;
+    width: 70%;
+}
+
 p {
     width: 100%;
 }

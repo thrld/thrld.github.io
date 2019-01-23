@@ -3,15 +3,29 @@ layout: default
 title: Blog
 section: blog
 ---
-	<h1 style="padding-top: 1em">{{ page.title }}</h1>
+
+<div id="heading-blog">{{ page.title }}</div>
+	<!--	
 	<p>
 		<a href="atom.xml" target="_blank"><img src="https://www.mozilla.org/media/img/trademarks/feed-icon-14x14.2168a573d0d4.png"></a> Click icon for RSS feed (will not work in Chrome, because <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=434" target="_blank">Chrome doesn't know how to display XML</a>).
 	</p>
-
-	
+	-->
+<div id=posts-container>
+	<ul class="posts">
+		{% for post in site.posts %}
+			<li><span>{{ post.date | date_to_string }}</span></li>
+		{% endfor %}
+	</ul>
+	<ul class="posts">
+		{% for post in site.posts %}
+			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
+<!--
 	<ul class="posts">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
-
+-->
