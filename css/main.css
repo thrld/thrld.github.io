@@ -262,6 +262,19 @@ ul.posts li {
     list-style: none;
 }
 
+#list-posts {
+    margin: 1.8em auto;
+    line-height: 1.8em;
+}
+
+#list-posts .pd {
+  padding: 0em .2em;
+}
+
+
+#list-posts .pt {
+  padding-left: 3em;
+}
 /* BLOG POST (cf. ./_layouts/post.html) */
 
 body.blog h1 {

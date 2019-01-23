@@ -10,6 +10,19 @@ section: blog
 		<a href="atom.xml" target="_blank"><img src="https://www.mozilla.org/media/img/trademarks/feed-icon-14x14.2168a573d0d4.png"></a> Click icon for RSS feed (will not work in Chrome, because <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=434" target="_blank">Chrome doesn't know how to display XML</a>).
 	</p>
 	-->
+
+  <table id="list-posts">
+    {% for post in site.posts %}
+    <tr>
+      <td class="pd">{{ post.date | date: "%d"}}</td>
+      <td class="pd">{{ post.date | date: "%b"}}</td>
+      <td class="pd">{{ post.date | date: "%Y"}}</td>
+      <td class="pt"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+</table>
+
+<!--
 <div id=posts-container>
 	<ul class="posts">
 		{% for post in site.posts %}
@@ -22,6 +35,8 @@ section: blog
 		{% endfor %}
 	</ul>
 </div>
+<--
+
 <!--
 	<ul class="posts">
 	  {% for post in site.posts %}
