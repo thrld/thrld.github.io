@@ -16,13 +16,28 @@ body {
 #header1_name {
   display: block;
   width: 30%;
-  padding-right: .2em;
+  /*padding-right: .2em;*/
   /*align-content: center;*/
   /*font-family: Merriweather;*/ 
   font-size: 1.2em;
   /*font-weight: bold;*/
   /*background: green;*/
 }
+
+#container_links {
+  width: 70%;
+  /*background: yellow;*/
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#container_image {
+  width: 0%;
+  /*background: red;*/
+  text-align: right;
+  display: block;
+}
+
 
 nav ul li {
     display: inline;

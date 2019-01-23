@@ -97,7 +97,7 @@ li > header {
 #header1_name {
   display: block;
   width: 30%;
-  padding-right: .2em;
+  /*padding-right: .2em;*/
   /*align-content: center;*/
   /*font-family: Merriweather;*/ 
   font-size: 1.6em;
@@ -277,7 +277,7 @@ ul.posts li {
 }
 /* BLOG POST (cf. ./_layouts/post.html) */
 
-body.blog h1 {
+.blurb-blog h1 {
   font-size: 1.4em;
   font-weight: bold;
   text-align: center;
@@ -287,11 +287,11 @@ body.blog h1 {
 }
 
 
-body.blog h2 {  /* created within blog text in .md docs */
+.blurb-blog h2 {  /* created within blog text in .md docs */
   font-size: 1.3em;
 }
 
-body.blog p.meta {
+.blurb-blog p.meta {
   margin: 0em 0em 2em 0em;
   padding: 0em auto;
   font-style: italic;
@@ -299,18 +299,18 @@ body.blog p.meta {
 
 }
 
-body.blog ol {
+.blurb-blog ol {
   padding: 1em 3em;
 }
 
-body.blog ol li {
+.blurb-blog ol li {
   text-align: justify; 
   padding-left: 1em;
   line-height: 1.4em;    
   padding-bottom: .5em;
 }
 
-body.blog ul li {
+.blurb-blog ul li {
   text-align: justify; 
   padding-left: 1em;  
   padding-bottom: .5em;
