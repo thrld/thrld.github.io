@@ -264,13 +264,16 @@ ul.posts li {
 
 #list-posts {
     margin: 1.8em auto;
-    line-height: 1.8em;
+}
+
+#list-posts td {
+  padding-bottom: .8em;
 }
 
 #list-posts .pd {
-  padding: 0em .2em;
+  padding-left: .2em;
+  padding-right: .2em;
 }
-
 
 #list-posts .pt {
   padding-left: 3em;
