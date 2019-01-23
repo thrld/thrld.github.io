@@ -21,3 +21,16 @@ body {
     padding-top: .5em;
     /*background: grey;*/
 }
+
+#posts-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding-top: .5em;
+    padding-bottom: 1.5em;
+}
+
+body.blog ol {
+  padding: 1em 0em;
+}
