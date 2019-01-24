@@ -41,6 +41,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<img src="/figure/source/2016-05-22-blogging-with-knitr-and-jekyll/pressure-1.png" title="plot of chunk pressure" alt="plot of chunk pressure" style="display: block; margin: auto;" />
+<img src="/figure/source/2018-05-22-blogging-with-knitr-and-jekyll/pressure-1.png" title="plot of chunk pressure" alt="plot of chunk pressure" style="display: block; margin: auto;" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

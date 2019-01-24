@@ -244,15 +244,6 @@ footer table {
     font-weight: bold;
 }
 
-#posts-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 80%;
-    padding-top: .5em;
-    padding-bottom: 1.5em;
-}
-
 ul.posts { 
     margin: 1em auto; 
     font-size: 1em;
@@ -263,7 +254,7 @@ ul.posts li {
 }
 
 #list-posts {
-    margin: 1.8em auto;
+    margin: 1.8em auto 0em auto;
 }
 
 #list-posts td {
@@ -289,7 +280,6 @@ ul.posts li {
   margin: 0em auto;
 }
 
-
 .blurb-blog h2 {  /* created within blog text in .md docs */
   font-size: 1.3em;
 }
@@ -299,7 +289,6 @@ ul.posts li {
   padding: 0em auto;
   font-style: italic;
   text-align: center;
-
 }
 
 .blurb-blog ol {
@@ -327,6 +316,7 @@ figure.highlight {
 pre.lineno {
   padding-right: .3em;
 }
+
 .container-blognav {
   display: flex;
   justify-content: center;
