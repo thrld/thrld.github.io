@@ -167,10 +167,10 @@ footer table {
 
 .blurb {
     display: flex;
-    flex: 1 0 auto;
     flex-direction: row;
+    flex-wrap: wrap;
     /*align-content: center;*/
-    justify-content: space-between;
+    justify-content: space-evenly;
     /*flex-wrap: wrap;*/
     margin: 0 auto;
     /*width: 85%;*/
@@ -191,18 +191,18 @@ footer table {
 
 
 .main_text {
-  flex: 50%;
-  padding-left: 3em;
-  padding-right: 3em;
+  flex: 40%;
+  min-width: 300px;
+  padding-left: 3em; 
 }
 
 /* Image @home */
 
 .side {
-  flex: 30%;
-  padding-left: 3em;
-  padding-right: 3em;  
+  flex: 40%;
+  min-width: 300px;
   align-self: center; 
+  padding-right: 3em;
 
   /*position: relative;*/
   /*margin: auto;*/
@@ -219,7 +219,8 @@ footer table {
 
 */
 .me {
-  width: 70%;
+  width: 40%;
+  min-width: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;

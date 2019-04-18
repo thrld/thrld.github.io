@@ -6,7 +6,6 @@ set width (<p>) to 100%.
 
 .blurb {
     display: flex;
-    flex: 1 0 auto;
     flex-direction: column;
     /*align-content: center;*/
     justify-content: space-between;
@@ -63,15 +62,6 @@ nav ul li {
     font-weight: 100;
 }
 
-
-.blurb {
-    justify-content: center;
-    width: 85%;
-    margin: auto;
-    /*padding-left: 2em;*/
-    padding-top: .5em;
-    /*background: grey;*/
-}
 
 #posts-container {
     display: flex;
