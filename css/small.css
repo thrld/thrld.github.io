@@ -13,6 +13,33 @@ body {
     /*background: yellow; */
 }
 
+.blurb {
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+    /*align-content: center;*/
+    justify-content: space-between;
+    /*flex-wrap: wrap;*/
+    margin: 0 auto;
+    /*width: 85%;*/
+    /*margin: auto;*/
+    /*padding-left: 2em;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main_text {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+/* Image @home */
+
+.side {
+  padding-left: 3em;
+  padding-right: 3em;  
+  align-self: center; 
+
 #header1_name {
   display: block;
   width: 25%;
