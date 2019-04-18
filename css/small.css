@@ -4,15 +4,6 @@ if screen width smaller than 480px,
 set width (<p>) to 100%. 
 */
 
-body {
-    display: flex;
-    flex-direction: column;
-    font-family: Georgia, serif;
-    margin: auto;
-    width: 90%;
-    /*background: yellow; */
-}
-
 .blurb {
     display: flex;
     flex: 1 0 auto;
