@@ -50,6 +50,7 @@ set width (<p>) to 100%.
 }
 
 #container_image {
+  width: 0%;
   display: none;
 }
 
