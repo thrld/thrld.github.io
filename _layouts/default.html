@@ -2,7 +2,10 @@
 	<html>
 		<head>
 			<title>thrld</title>
-			<link rel="icon" href="../../../../img/rocket.png"/>
+			<!-- <link rel="icon" href="../../../../img/rocket.png"/> -->
+			<link rel="icon" href="../../../../img/favicon-rocket.ico"/>	
+		
+
 			<!-- Could also be <title> {{page.title}} -->
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<!-- link to main stylesheet -->
@@ -12,6 +15,7 @@
   			href="/css/small.css" />
   			<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather" />
   			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  			<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 			<script> 
 				$(document).ready(function(){
 					$(".slide").slideDown(2000);
@@ -23,7 +27,7 @@
 			<nav>
 				<div id="header_container">
 					<div id=header1_name>
-						Thomas A. Herold
+						Tom A. Herold
 					</div>
 					<div id="container_links">
 						<ul class="header">
@@ -33,8 +37,8 @@
 								</div>
 							</li>
 							<li class="header">
-								<div id="link_skills_tools">
-									<a href="/skills_tools" class="skills_tools">Skills/Tools</a>
+								<div id="link_about">
+									<a href="/about" class="about">About</a>
 								</div>
 							</li>
 							<li class="header">
@@ -51,7 +55,8 @@
 					</div>
 						<div id="container_image">
 							<div class="hvr-icon-float-away">
-								<img src="../../../../img/rocket.png" height=30 class="hvr-icon">
+								<span style="font-size: 30px"><i class="fas fa-rocket hvr-icon"></i></span>
+								<!-- <img src="../../../../img/rocket.png" height=30 class="hvr-icon"> -->
 							</div>
 						</div>  	
   				</div>
@@ -69,7 +74,10 @@
 								Get in touch.
 							</th>
 							<th>
-								Find me on Github.
+								Visit me on Github.
+							</th>
+							<th>
+								Check out my LinkedIn.
 							</th>
 							<th>
 								See my stack.
@@ -79,15 +87,22 @@
 							<th> 
 								<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
 									<!--
-									document.write('<A HREF="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x68;&#x65;&#x72;&#x6f;&#x6c;&#x64;&#x74;&#x68;&#x40;&#x68;&#x75;&#x2d;&#x62;&#x65;&#x72;&#x6c;&#x69;&#x6e;&#x2e;&#x64;&#x65;" itemprop = "email" class="hvr-icon-wobble-horizontal"><img src="../../../../img/mail.png" height="50" class="hvr-icon"><\/A>');
+									document.write('<SPAN STYLE="FONT-SIZE: 40PX"><A HREF="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x68;&#x65;&#x72;&#x6f;&#x6c;&#x64;&#x74;&#x68;&#x40;&#x68;&#x75;&#x2d;&#x62;&#x65;&#x72;&#x6c;&#x69;&#x6e;&#x2e;&#x64;&#x65;" itemprop = "email" class="hvr-icon-wobble-horizontal"><i class="fas fa-envelope hvr-icon"></i><\/A><\/SPAN>');
 									// -->
 								</SCRIPT>
+								<!-- <img src="../../../../img/mail.png" height="50" class="hvr-icon"><\/A>'); -->
 							</th>
 							<th>
-								<a href="https://github.com/thrld" target="_blank" itemprop = "url" class="hvr-icon-spin"><img src="../../../../img/GitHub-Mark-64px.png" height="50" class="hvr-icon"></a>
+								<span style="font-size: 40px"><a href="https://github.com/thrld" target="_blank" itemprop = "url" class="hvr-icon-spin"><i class="fab fa-github hvr-icon"></i></a></span>
+									<!-- <img src="../../../../img/GitHub-Mark-64px.png" height="50" class="hvr-icon"></a> -->
 							</th>
 							<th>
-								<a href="https://stackshare.io/thrld/my-stack" target="_blank" itemprop = "url" class="hvr-icon-down"><img src="../../../../img/keyboard-icon.png" height="50" class="hvr-icon"/></a>
+								<span style="font-size: 40px"><a href="https://www.linkedin.com/in/thrld/" target="_blank" itemprop = "url" class="hvr-icon-spin"><i class="fab fa-linkedin-in hvr-icon"></i></a></span>
+									<!-- <img src="../../../../img/GitHub-Mark-64px.png" height="50" class="hvr-icon"></a> -->
+							</th>
+							<th>
+								<span style="font-size: 35px"><a href="https://stackshare.io/thrld/my-stack" target="_blank" itemprop = "url" class="hvr-icon-down"><i class="fas fa-database hvr-icon"></i></a></span>
+									<!-- <img src="../../../../img/keyboard-icon.png" height="50" class="hvr-icon"/></a> -->
 							</th>
 						</tr>
 					</table>		
