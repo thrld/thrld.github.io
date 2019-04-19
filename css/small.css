@@ -4,6 +4,10 @@ if screen width smaller than 480px,
 set width (<p>) to 100%. 
 */
 
+.body {
+  width: 100%;
+}
+
 .blurb {
     display: flex;
     flex-direction: column;
@@ -32,8 +36,7 @@ set width (<p>) to 100%.
 }
 
 #header1_name {
-  display: block;
-  width: 25%;
+  flex: 25%;
   /*padding-right: .2em;*/
   /*align-content: center;*/
   /*font-family: Merriweather;*/ 
@@ -43,14 +46,14 @@ set width (<p>) to 100%.
 }
 
 #container_links {
-  width: 75%;
+  flex: 75%;
   /*background: yellow;*/
   display: flex;
   flex-wrap: wrap;
 }
 
 #container_image {
-  width: 0%;
+  flex: 0%;
   display: none;
 }
 
