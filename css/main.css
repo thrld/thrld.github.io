@@ -23,7 +23,6 @@ body {
     width: 60%;
     background-color: #F0F0F0;
     background-image: url(../img/bg.jpg);
-    /*background: yellow; */
 }
 
 p {
@@ -237,10 +236,9 @@ footer table {
 /* About */
 
 .about-container {
-    width: 100%;
+    width: 90%;
     padding-left: 2em;
     padding-right: 2em;
-
 }
 
 #st-heading-container {
