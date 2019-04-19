@@ -19,12 +19,12 @@ set width (<p>) to 100%.
     /*margin: auto;*/
     /*padding-left: 2em;*/
     padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 .main_text {
   padding-left: 3em;
   padding-right: 3em;
+  background: purple;
 }
 
 /* Image @home */
@@ -33,6 +33,7 @@ set width (<p>) to 100%.
   padding-left: 3em;
   padding-right: 3em;  
   align-self: center; 
+  background: grey;
 }
 
 #header1_name {
@@ -43,6 +44,7 @@ set width (<p>) to 100%.
   font-size: 1.1em;
   /*font-weight: bold;*/
   /*background: green;*/
+  background: green;
 }
 
 #container_links {
@@ -50,11 +52,13 @@ set width (<p>) to 100%.
   /*background: yellow;*/
   display: flex;
   flex-wrap: wrap;
+  background: red;
 }
 
 #container_image {
   flex: 0%;
   display: none;
+  background: yellow;
 }
 
 
