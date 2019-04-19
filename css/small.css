@@ -59,7 +59,8 @@ nav {
 }
 
 #header1_name {
-  flex: 35%;
+  flex: 40%;
+  flex-wrap: nowrap;
   /*padding-right: .2em;*/
   /*align-content: center;*/
   /*font-family: Merriweather;*/ 
@@ -69,7 +70,7 @@ nav {
 }
 
 #container_links {
-  flex: 65%;
+  flex: 60%;
   /*background: yellow;*/
   display: flex;
   flex-wrap: wrap;
