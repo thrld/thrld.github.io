@@ -38,7 +38,6 @@ body {
 .main_text {
   padding-left: 3em;
   padding-right: 3em;
-  background: purple;
 }
 
 /* Image @home */
@@ -47,11 +46,10 @@ body {
   padding-left: 3em;
   padding-right: 3em;  
   align-self: center; 
-  background: grey;
 }
 
 #header1_name {
-  flex: 25%;
+  flex: 35%;
   /*padding-right: .2em;*/
   /*align-content: center;*/
   /*font-family: Merriweather;*/ 
@@ -62,17 +60,15 @@ body {
 }
 
 #container_links {
-  flex: 75%;
+  flex: 65%;
   /*background: yellow;*/
   display: flex;
   flex-wrap: wrap;
-  background: red;
 }
 
 #container_image {
   flex: 0%;
   display: none;
-  background: yellow;
 }
 
 
