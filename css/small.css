@@ -4,8 +4,22 @@ if screen width smaller than 480px,
 set width (<p>) to 100%. 
 */
 
-.body {
-  width: 100%;
+html {
+  height: 100%;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Georgia, serif;
+    margin: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: #F0F0F0;
+    background-image: url(../img/bg.jpg);
+    /*background: yellow; */
 }
 
 .blurb {
