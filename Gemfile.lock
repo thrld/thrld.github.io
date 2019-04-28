@@ -242,7 +242,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (= 197)
+  github-pages
   jekyll-feed
 
 BUNDLED WITH
