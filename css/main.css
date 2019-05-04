@@ -40,6 +40,9 @@ a:hover {
     text-decoration: underline;
 }
 
+.blacklink {
+  color: black;
+}
 
 /*-------------------------------------------------*/
 
@@ -322,6 +325,15 @@ footer table {
 
 .slide {
   display: none;
+}
+
+table.online-classes td, table.online-classes th {
+  text-align: left;
+  padding: 8px;
+}
+
+table.online-classes td.cent {
+  text-align: center;
 }
 
 /*-------------------------------------------------*/
