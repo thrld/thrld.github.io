@@ -394,20 +394,21 @@ ul.posts li {
   text-align: center;
 }
 
-.blurb-blog ol {
+.blog ol {
   padding: 1em 3em;
 }
 
-.blurb-blog ol li {
+.blog ol li {
   text-align: justify; 
   padding-left: 1em;
   line-height: 1.4em;    
   padding-bottom: .5em;
 }
 
-.blurb-blog ul li {
+.blog ul li {
   text-align: justify; 
   padding-left: 1em;  
+  line-height: 1.4em;    
   padding-bottom: .5em;
 }
 

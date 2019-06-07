@@ -117,9 +117,9 @@ for entry in res:
 pickle.dump(links, open("pitchfork_video_ids.p", "wb"))
 {% endhighlight %}
 
-The [second part](../../../../../2016/10/16/a-simple-pitchfork-scraper-(part-2)) of this tutorial demonstrates how to read the data into R and create beautiful markdown tables within seconds. 
+The [second part](../../../../../blog/2018/10/16/a-simple-pitchfork-scraper-(part-2)) of this tutorial demonstrates how to read the data into R and create beautiful markdown tables within seconds. 
 
-In [part 3](../../../../../2016/10/19/a-simple-pitchfork-scraper-(part-3)) I show you how to automatically make a Youtube playlist out of these 50 videos using the [Youtube Data API](https://developers.google.com/youtube/v3/) and the [Google API Client Library for Python](https://developers.google.com/api-client-library/python/). 
+In [part 3](../../../../../blog/2018/10/19/a-simple-pitchfork-scraper-(part-3)) I show you how to automatically make a Youtube playlist out of these 50 videos using the [Youtube Data API](https://developers.google.com/youtube/v3/) and the [Google API Client Library for Python](https://developers.google.com/api-client-library/python/). 
 
 <hr>
 *Footnotes:*

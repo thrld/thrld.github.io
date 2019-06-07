@@ -6,9 +6,9 @@ section: blog
 output: html_document
 ---
 
-In the [first part](../../../../../2016/10/16/a-simple-pitchfork-scraper-(part-1)) of the tutorial, I showed how to retrieve content from a [Pitchfork article](http://pitchfork.com/features/lists-and-guides/9932-the-50-best-indie-rock-albums-of-the-pacific-northwest/?page=1). The content I was interested in was hidden in large amounts of text but we can regain control and structure it using some web scraping tricks in Python. I saved the resulting data set as an Excel file.
+In the [first part](../../../../../blog/2018/10/16/a-simple-pitchfork-scraper-(part-1)) of the tutorial, I showed how to retrieve content from a [Pitchfork article](http://pitchfork.com/features/lists-and-guides/9932-the-50-best-indie-rock-albums-of-the-pacific-northwest/?page=1). The content I was interested in was hidden in large amounts of text but we can regain control and structure it using some web scraping tricks in Python. I saved the resulting data set as an Excel file.
 
-This is a fairly short post, nothing fancy. All I want to do is load the data into R and tell you about `kable`, a powerful function contained in the *knitr* package to create tables in markdown from within an .Rmd file. This blog post is entirely written in R. If you're interested in doing something similar yourself, check out my post on [Blogging with knitr and Jekyll](../../../../../2016/05/22/blogging-with-knitr-and-jekyll).
+This is a fairly short post, nothing fancy. All I want to do is load the data into R and tell you about `kable`, a powerful function contained in the *knitr* package to create tables in markdown from within an .Rmd file. This blog post is entirely written in R. If you're interested in doing something similar yourself, check out my post on [Blogging with knitr and Jekyll](../../../../../blog/2018/05/22/blogging-with-knitr-and-jekyll).
 
 Let's get started and read in the data and set the column names:
 
@@ -78,5 +78,5 @@ kable(tail(res[,-4], n = 5L), row.names = FALSE, format = "markdown", longtable 
 
 As always, feedback is warmly welcomed! Let me know if you have any questions/suggestions. 
 
-In [part 3](../../../../../2016/10/19/a-simple-pitchfork-scraper-(part-3)) of the tutorial, I show you how to automatically make a Youtube playlist out of these 50 videos using the [Youtube Data API](https://developers.google.com/youtube/v3/) and the [Google API Client Library for Python](https://developers.google.com/api-client-library/python/). 
+In [part 3](../../../../../blog/2018/10/19/a-simple-pitchfork-scraper-(part-3)) of the tutorial, I show you how to automatically make a Youtube playlist out of these 50 videos using the [Youtube Data API](https://developers.google.com/youtube/v3/) and the [Google API Client Library for Python](https://developers.google.com/api-client-library/python/). 
 

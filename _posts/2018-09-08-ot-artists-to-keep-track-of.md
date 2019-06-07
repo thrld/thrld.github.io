@@ -15,8 +15,8 @@ Please feel free to let me know about your own finds, too!
 
 ### The List
 
-- German math rock besides: [Elephant Hawk Moth](https://elephanthawkmoth.bandcamp.com/), [kiriloff](https://kiriloff.bandcamp.com/), [Lingua Nada](https://linguanada.bandcamp.com).
-- Note to self after a lazy Saturday: Revisit Black Cobra's ST release. Scout Niblett, Hole (*Pretty on the Inside*), Sleaford Mods (Tarantula Deadly Cargo), and *Oxygen 7-13* by Jean-Michael Jarre. 
+- German math rock: [Elephant Hawk Moth](https://elephanthawkmoth.bandcamp.com/), [kiriloff](https://kiriloff.bandcamp.com/), [Lingua Nada](https://linguanada.bandcamp.com).
+- Note to self after a lazy Saturday: Revisit Black Cobra's ST release, Scout Niblett, Hole (*Pretty on the Inside*), Sleaford Mods (Tarantula Deadly Cargo). 
 - [Scotty Anderson - Are You From Dixie](https://www.youtube.com/watch?v=ANV09GR2c1w) -- A guitarist using thumb position? For a different style and the same technique, check out [Marcus Tardelli](https://www.youtube.com/watch?v=4qt8fvwI2x8&t=0s). 
 - [Cyrille Aimée - Make You Dance](https://www.youtube.com/watch?v=Qqw-f74eXk8) -- Thanks to M. It is amazing what some people do with loop pedals!
 - [The Breeders - Head to Toe](https://www.youtube.com/watch?v=1Huozu5FZH4) -- I will never grow tired of this bored voice. Two more examples: ['Hag'](https://www.youtube.com/watch?v=uCvQULLydwc) and ['No Aloha'](https://www.youtube.com/watch?v=o9hAS2uHG_I), both from their 1993 album *Last Splash*. 
@@ -32,11 +32,9 @@ Please feel free to let me know about your own finds, too!
 - [Bradon Can't Dance - *LXVE EP*](https://luckynumber.bandcamp.com/album/lxve-ep) -- Nice when the sun's out and you don't have anything to do.
 - [Porridge Radio - *Rice, Pasta and Other Fillers*](https://porridgeradio.bandcamp.com/album/rice-pasta-and-other-fillers) -- Band from Brighton, UK :) This is their first full-length album after a lot of solo home recordings from their singer Dana.
 - [Margaret Glaspy - *Emotions and Math*](http://www.newyorker.com/culture/culture-desk/listen-to-margaret-glaspys-emotions-math) -- Beautiful debut (!) album, used to be available for streaming in its entirety in the link provided. Unfortunately, now you only get 30-second snippets. I hear she's on Spotify, though.
-- [FFX - Catch Up](https://ffxdtf.bandcamp.com/) -- Duo, originally from Ljubljana, Slovenia. Now working from Berlin.
-- [Goblin \*\*\*\* - World is Moving](http://www.metalinjection.net/av/heres-an-album-stream-from-a-band-called-goblin-cock) -- Came across them because Nick Reinhard (from the great [Tera Melos](https://teramelos.bandcamp.com/)) is helping out on guitar for their upcoming US tour.
 - [Oxbow - *The Narcotic Story*](https://oxbow.bandcamp.com/album/the-narcotic-story) -- Incredibly well-arranged album, co-produced by Joe Chiccarelli (Frank Zappa), singer reminds me a lot of the early [Enik](http://enik.net/). 
 - [Molly Drake - I Remember](https://www.youtube.com/watch?v=52eMBSRNYxA) -- Nick Drake's mother, an amazing singer and lyricist. I really wonder why I've only just found her.
-- [Mr. Bungle - *California*](https://www.youtube.com/watch?v=ITEDFYdLHFA) -- A recent rediscovery. Surely takes some time to get used to, but Mike Patton might very well be one of the most interesting artists around. In this album, he shows off an overwhelming amount of his skills.
+- [Mr. Bungle - *California*](https://www.youtube.com/watch?v=ITEDFYdLHFA) -- A recent rediscovery. Surely takes some time to get used to, but Mike Patton might very well be one of the most interesting artists around.
 - [Horace Bray - *Dream State*](https://horacebray.bandcamp.com/album/dreamstate) -- Great modern jazz guitarist from Texas. Start with '3 4 5' (3 over 4 over 5, as the name suggests).
 
 ※
